@@ -7,6 +7,6 @@ export const environment = {
     projectId: 'bezkoder-firebase',
     storageBucket: 'bezkoder-firebase.appspot.com',
     messagingSenderId: 'xxx',
-    appId: 'xxx'
-  }
+    appId: 'xxx',
+  },
 };
