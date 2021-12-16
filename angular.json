@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Angular10FirebaseStorage"
+    }
+  },
+  "defaultProject": "Angular10FirebaseStorage",
+  "cli": {
+    "analytics": "f9cf7e76-12c4-4662-a724-69d21c7d1223"
+  }
 }
